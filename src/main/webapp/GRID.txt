@@ -1,0 +1,49 @@
+<div class ="container">
+      <div class="row">
+            
+          <div class="col-xs-6"</div>
+                  
+                  <h1>Extra small text</h1>
+                   
+ <div class="col-xs-6"</div>
+                  
+                  <h1>Extra small text</h1>
+                  
+                  </div><!-- ROW -->
+                  
+
+      <div class="row">
+            
+          <div class="col-xs-6"</div>
+                  
+                  <h1>Small text</h1>
+                   
+ <div class="col-xs-6"</div>
+                  
+                  <h1>Small text</h1>
+                  
+                  </div>
+                  
+      <div class="row">
+            
+          <div class="col-xs-6"</div>
+                  
+                  <h1>Medium</h1>
+                   
+ <div class="col-xs-6"</div>
+                  
+                  <h1>Medium</h1>
+                  
+                  </div>
+                  
+      <div class="row">
+            
+          <div class="col-xs-6"</div>
+                  
+                  <h1>Large text</h1>
+                   
+ <div class="col-xs-6"</div>
+                  
+                  <h1>Large text</h1>
+                  
+                  </div>
